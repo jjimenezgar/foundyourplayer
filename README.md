@@ -2,7 +2,7 @@
 
 Este repositorio contiene un proyecto donde se desarrolla una web en la que se puede hacer búsqueda de jugadores jóvenes de las mejores competiciones de fútbol del mundo. :soccer:. El objetivo principal de este proyecto es poner en practica lo aprendido en el curso "Desarrollador Python" de [Inove](https://inove.com.ar/).
 
-[Link repositorio] (https://github.com/jjimenezgar/foundyourplayer)
+[Link] (https://github.com/jjimenezgar/foundyourplayer)
 
 
 
