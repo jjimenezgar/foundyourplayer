@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+
+<!-- Titulo de la página-->
+<head>
+    <title>Top goleadores</title>
+</head>
+
+<body>
+
+<h1><a title="inove website" href="https://inove.com.ar/"><img src="{{url_for('static', filename='media/cropped-3-1-300x131.png')}}" /></a></h1>
+
+<h2>Jugadores</h2>
+
+<p>En esta aplicación tenemos a los mejores atacantes de las 10 mejores ligas.</p>
+
+<form action="{{ url_for('Grafica')}}" method="post">
+      <label for="age" colo>Age:  </label>
+      <input type="text" name="age" placeholder="age">
+      <br>
+      <br>
+      <label for="nationality" colo>Nationality:  </label>
+      <input type="text" name="nationality" placeholder="nationality">
+      <br>
+      <br>
+      <label for="competition" colo>Competition:  </label>
+      <input type="text" name="competition" placeholder="competition">
+      <br>
+      <br>
+      <label for="price" colo>Price:  </label>
+      <input type="text" name="price" placeholder="price">
+      <br>
+      <br>
+      
+     
+<button type="submit" class="btn btn-primary btn-block btn-large">Filtrado</button>
+    </form>
+
+<br><br>
+
+<form action="{{url_for('index')}}">
+    <input type="submit" value="Home"/>
+</form>
+
+
+
+</body>
+</html>

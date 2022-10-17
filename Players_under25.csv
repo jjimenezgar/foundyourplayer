@@ -1,0 +1,251 @@
+,Name,Age,Nationality,Competition,Team,Match,Goal,Assists,Market price
+0,Erling Haaland,22,Norway,England,Manchester City,9,15,3,155.25
+1,Malcom,25,Brazil,Russia,Zenit St. Petersburg,12,8,7,22.77
+2,Eduard Spertsyan,22,Armenia,Russia,FK Krasnodar,12,8,4,9.32
+3,Aleksandr Sobolev,25,Russia,Russia,Spartak Moscow,11,6,5,8.28
+4,Mike Trésor,23,Belgium,Belgium,KRC Genk,11,5,6,4.66
+5,Jamal Musiala,19,Germany,Germany,Bayern Munich,8,5,5,82.8
+6,Jonathan David,22,Canada,France,LOSC Lille,10,7,2,46.58
+7,Fedor Chalov,24,Russia,Russia,CSKA Moscow,12,7,2,7.76
+8,Phil Foden,22,England,England,Manchester City,9,6,3,93.15
+9,Gonçalo Ramos,21,Portugal,Portugal,SL Benfica,8,6,3,20.7
+10,Ferran Jutglà,23,Spain,Belgium,Club Brugge KV,10,6,3,7.24
+11,Gabriel Jesus,25,Brazil,England,Arsenal FC,9,5,4,67.27
+12,Khvicha Kvaratskhelia,21,Georgia,Italy,SSC Napoli,9,5,4,36.22
+13,Jesús Medina,25,Paraguay,Russia,CSKA Moscow,11,5,4,6.21
+14,Dango Ouattara,20,Burkina Faso,France,FC Lorient,9,4,5,7.24
+15,Daniil Utkin,23,Russia,Russia,FK Rostov,12,3,6,5.18
+16,Kylian Mbappé,23,France,France,Paris Saint-Germain,9,8,0,165.6
+17,Terem Moffi,23,Nigeria,France,FC Lorient,10,8,0,12.42
+18,Hugo Cuypers,25,Belgium,Belgium,KAA Gent,10,7,1,4.66
+19,Wendel,25,Brazil,Russia,Zenit St. Petersburg,12,6,2,19.66
+20,Folarin Balogun,21,England,France,Stade Reims,10,6,2,7.24
+21,Pedro Gonçalves,24,Portugal,Portugal,Sporting CP,9,5,3,31.05
+22,Tetê,22,Brazil,France,Olympique Lyon,10,5,3,28.98
+23,Jorge Carrascal,24,Colombia,Russia,CSKA Moscow,11,5,3,9.32
+24,Aziz,23,Ghana,Portugal,Rio Ave FC,9,5,3,2.07
+25,Rafael Leão,23,Portugal,Italy,AC Milan,8,4,4,72.45
+26,Maksim Glushenkov,23,Russia,Russia,Krylya Sovetov Samara,12,4,4,2.59
+27,Christopher Nkunku,24,France,Germany,RB Leipzig,9,7,0,82.8
+28,Vinicius Junior,22,Brazil,Spain,Real Madrid,8,5,2,124.2
+29,James Maddison,25,England,England,Leicester City,8,5,2,51.75
+30,Martin Terrier,25,France,France,Stade Rennais FC,10,5,2,33.12
+31,Marcus Thuram,25,France,Germany,Borussia Mönchengladbach,9,5,2,20.7
+32,Andrey Mostovoy,24,Russia,Russia,Zenit St. Petersburg,12,5,2,3.62
+33,Lyle Foster,22,South Africa,Belgium,KVC Westerlo,10,5,2,0.83
+34,Simon Adingra,20,Cote d'Ivoire,Belgium,Royale Union Saint Gilloise,10,4,3,4.14
+35,Bukayo Saka,21,England,England,Arsenal FC,9,3,4,72.45
+36,Randal Kolo Muani,23,France,Germany,Eintracht Frankfurt,8,2,5,20.7
+37,Dušan Vlahović,22,Serbia,Italy,Juventus FC,8,5,1,87.98
+38,Fábio Silva,20,Portugal,Belgium,RSC Anderlecht,11,5,1,15.52
+39,Elye Wahi,19,France,France,Montpellier HSC,10,5,1,14.49
+40,Bryan Heynen,25,Belgium,Belgium,KRC Genk,11,5,1,7.76
+41,Artem Dovbyk,25,Ukraine,Ukraine,SK Dnipro-1,5,5,1,6.21
+42,Fran Navarro,24,Spain,Portugal,Gil Vicente FC,9,5,1,5.18
+43,Haji Wright,24,United States,Turkey,Antalyaspor,8,5,1,2.9
+44,Marius,24,Chad,Belgium,RFC Seraing,11,5,1,0.47
+45,Gabriel Martinelli,21,Brazil,England,Arsenal FC,9,4,2,41.4
+46,Evanilson,23,Brazil,Portugal,FC Porto,9,4,2,22.77
+47,Breel Embolo,25,Switzerland,Monaco,AS Monaco,10,4,2,18.63
+48,Andreas Skov Olsen,22,Denmark,Belgium,Club Brugge KV,10,4,2,15.52
+49,Boulaye Dia,25,Senegal,Italy,US Salernitana 1919,8,4,2,12.42
+50,Joseph Paintsil,24,Ghana,Belgium,KRC Genk,8,4,2,3.62
+51,Hyun-seok Hong,23,"Korea, South",Belgium,KAA Gent,8,4,2,2.07
+52,Olakunle Olusegun,20,Nigeria,Russia,FK Krasnodar,11,4,2,1.76
+53,Georgi Melkadze,25,Russia,Russia,FC Sochi,11,4,2,0.83
+54,Aleksandr Dolgov,24,Russia,Russia,FK Khimki,12,4,2,0.62
+55,Talles,24,Brazil,Ukraine,Rukh Lviv,6,4,2,0.31
+56,Amine Gouiri,22,France,France,Stade Rennais FC,8,3,3,36.22
+57,Nico Williams,20,Spain,Spain,Athletic Bilbao,8,3,3,22.77
+58,Ademola Lookman,24,Nigeria,Italy,Atalanta BC,9,3,3,10.35
+59,Zakaria Aboukhlal,22,Morocco,France,FC Toulouse,10,3,3,3.62
+60,Kévin Denkey,21,Togo,Belgium,Cercle Brugge ,11,2,4,0.93
+61,Louis Patris,21,Belgium,Belgium,Oud-Heverlee Leuven,11,1,5,1.03
+62,Brais Méndez,25,Spain,Spain,Real Sociedad,8,5,0,22.77
+63,Beto,24,Portugal,Italy,Udinese Calcio,9,5,0,13.45
+64,Timur Suleymanov,22,Russia,Russia,FC Pari Nizhniy Novgorod,11,5,0,0.93
+65,Teun Koopmeiners,24,Netherlands,Italy,Atalanta BC,9,4,1,25.87
+66,Dodi Lukébakio,25,Belgium,Germany,Hertha BSC,9,4,1,7.76
+67,Ermedin Demirovic,24,Bosnia-Herzegovina,Germany,FC Augsburg,9,4,1,6.21
+68,Selim Amallah,25,Morocco,Belgium,Standard Liège,9,4,1,5.18
+69,Ivan Ignatjev,23,Russia,Russia,Lokomotiv Moscow,11,4,1,1.55
+70,Mohamed Konaté,24,Burkina Faso,Russia,Akhmat Grozny,11,4,1,1.03
+71,Luis Díaz,25,Colombia,England,Liverpool FC,8,3,2,77.62
+72,Rodrygo,21,Brazil,Spain,Real Madrid,6,3,2,72.45
+73,Marcus Rashford,24,England,England,Manchester United,8,3,2,62.1
+74,Marcus Edwards,23,England,Portugal,Sporting CP,9,3,2,20.7
+75,Youssoufa Moukoko,17,Germany,Germany,Borussia Dortmund,8,3,2,15.52
+76,Vitinha,22,Portugal,Portugal,SC Braga,9,3,2,8.28
+77,Nicolò Barella,25,Italy,Italy,Inter Milan,9,2,3,72.45
+78,Ansu Fati,19,Spain,Spain,FC Barcelona,8,2,3,62.1
+79,Armand Laurienté,23,France,Italy,US Sassuolo,8,2,3,10.35
+80,Konstantin Kuchaev,24,Russia,Russia,CSKA Moscow,7,2,3,3.62
+81,Nick Bätzner,22,Germany,Belgium,KV Oostende,10,2,3,1.55
+82,Tiago Gouveia,21,Portugal,Portugal,GD Estoril Praia,9,2,3,1.55
+83,Alieu Fadera,20,The Gambia,Belgium,SV Zulte Waregem,11,2,3,0.72
+84,Milson,23,Angola,Russia,FC Pari Nizhniy Novgorod,12,2,3,0.41
+85,Faitout Maouassa,24,France,France,Montpellier HSC,8,1,4,5.18
+86,Ken Nkuba,20,Belgium,Belgium,RSC Charleroi,11,1,4,2.59
+87,Maxim De Cuyper,21,Belgium,Belgium,KVC Westerlo,11,1,4,1.24
+88,Caio Henrique,25,Brazil,Monaco,AS Monaco,8,0,5,20.7
+89,Jurgen Ekkelenkamp,22,Netherlands,Belgium,Royal Antwerp FC,8,0,5,5.18
+90,Alexis Mac Allister,23,Argentina,England,Brighton & Hove Albion,8,4,0,25.87
+91,Jeremie Frimpong,21,Netherlands,Germany,Bayer 04 Leverkusen,9,4,0,25.87
+92,Loïs Openda,22,Belgium,France,RC Lens,10,4,0,12.42
+93,Gabriel Strefezza,25,Brazil,Italy,US Lecce,7,4,0,6.73
+94,Jackson Muleka,23,DR Congo,Turkey,Besiktas JK,7,4,0,5.18
+95,Federico Valverde,24,Uruguay,Spain,Real Madrid,8,3,1,82.8
+96,Lautaro Martínez,25,Argentina,Italy,Inter Milan,9,3,1,77.62
+97,Martin Ødegaard,23,Norway,England,Arsenal FC,8,3,1,51.75
+98,Patson Daka,24,Zambia,England,Leicester City,8,3,1,20.7
+99,David Neres,25,Brazil,Portugal,SL Benfica,7,3,1,20.7
+100,Lukas Nmecha,23,Germany,Germany,VfL Wolfsburg,8,3,1,18.63
+101,Galeno,24,Brazil,Portugal,FC Porto,9,3,1,12.42
+102,Luis Suárez,24,Colombia,France,Olympique Marseille,7,3,1,9.32
+103,Konstantin Tyukavin,20,Russia,Russia,Dynamo Moscow,11,3,1,7.24
+104,Dante Vanzeir,24,Belgium,Belgium,Royale Union Saint Gilloise,10,3,1,5.69
+105,Arnaud Nordin,24,France,France,Montpellier HSC,8,3,1,4.14
+106,Wilson Odobert,17,France,France,ESTAC Troyes,10,3,1,3.62
+107,Muhammed Cham,22,Austria,France,Clermont Foot 63,10,3,1,3.1
+108,Roman Ezhov,25,Russia,Russia,Krylya Sovetov Samara,11,3,1,1.55
+109,Valon Ethemi,25,North Macedonia,Turkey,Istanbulspor,7,3,1,1.55
+110,Mousa Al-Tamari,25,Jordan,Belgium,Oud-Heverlee Leuven,11,3,1,1.24
+111,David Atanga,25,Ghana,Belgium,KV Oostende,10,3,1,0.67
+112,Jimmy Marín,25,Costa Rica,Russia,FK Orenburg,11,3,1,0.41
+113,Maksym Pryadun,25,Ukraine,Ukraine,Metalist Kharkiv,6,3,1,0.1
+114,Tammy Abraham,25,England,Italy,AS Roma,9,2,2,51.75
+115,Ousmane Dembélé,25,France,Spain,FC Barcelona,8,2,2,51.75
+116,Pepê,25,Brazil,Portugal,FC Porto,9,2,2,20.7
+117,Takefusa Kubo,21,Japan,Spain,Real Sociedad,8,2,2,9.32
+118,Daniil Fomin,25,Russia,Russia,Dynamo Moscow,11,2,2,9.32
+119,Francis Amuzu,23,Belgium,Belgium,RSC Anderlecht,10,2,2,8.28
+120,Simone Bastoni,25,Italy,Italy,Spezia Calcio,9,2,2,7.76
+121,Abel Ruiz,22,Spain,Portugal,SC Braga,9,2,2,7.24
+122,Mostafa Mohamed,24,Egypt,France,FC Nantes,10,2,2,6.73
+123,Henry Onyekuru,25,Nigeria,Turkey,Adana Demirspor,9,2,2,5.18
+124,Mergim Berisha,24,Germany,Turkey,Fenerbahce,5,2,2,4.66
+125,Josh Doig,20,Scotland,Italy,Hellas Verona,6,2,2,3.93
+126,Thierry Ambrose,25,Guadeloupe,Belgium,KV Oostende,11,2,2,1.66
+127,Xadas,24,Portugal,Portugal,CS Marítimo,8,2,2,1.55
+128,João Batxi,24,Angola,Russia,FK Krasnodar,6,2,2,1.03
+129,Farès Chaïbi,19,France,France,FC Toulouse,8,2,2,0.83
+130,Lechi Sadulaev,22,Russia,Russia,Akhmat Grozny,10,2,2,0.72
+131,Antoine Bernier,25,Belgium,Belgium,RFC Seraing,11,2,2,0.62
+132,Moussa Diaby,23,France,Germany,Bayer 04 Leverkusen,9,1,3,62.1
+133,Dejan Kulusevski,22,Sweden,England,Tottenham Hotspur,7,1,3,51.75
+134,Jack Harrison,25,England,England,Leeds United,8,1,3,28.98
+135,Arnaud Kalimuendo,20,France,France,Stade Rennais FC,5,1,3,20.7
+136,Claudinho,25,Brazil,Russia,Zenit St. Petersburg,9,1,3,18.63
+137,Arsen Zakharyan,19,Russia,Russia,Dynamo Moscow,11,1,3,15.52
+138,Kang-in Lee,21,"Korea, South",Spain,RCD Mallorca,8,1,3,9.32
+139,André Almeida,22,Portugal,Spain,Valencia CF,8,1,3,8.28
+140,Danil Glebov,22,Russia,Russia,FK Rostov,12,1,3,6.21
+141,Stephen Eustaquio,25,Canada,Portugal,FC Porto,8,1,3,5.18
+142,Adem Zorgane,22,Algeria,Belgium,RSC Charleroi,11,1,3,4.14
+143,Yanis Hamache,23,Algeria,Ukraine,SK Dnipro-1,6,1,3,2.07
+144,Mykhaylo Mudryk,21,Ukraine,Ukraine,Shakhtar Donetsk,4,0,4,15.52
+145,Alexander Bah,24,Denmark,Portugal,SL Benfica,8,0,4,7.24
+146,Lincoln,23,Brazil,Turkey,Fenerbahce,8,0,4,5.18
+147,Lucas Vera,25,Argentina,Russia,FK Orenburg,10,0,4,2.07
+148,Álvaro Djaló,23,Spain,Portugal,SC Braga,8,0,4,1.03
+149,Cristian,22,Brazil,Ukraine,Zorya Lugansk,6,0,4,0.31
+150,Antony,22,Brazil,England,Manchester United,3,3,0,77.62
+151,Alexander Isak,23,Sweden,England,Newcastle United,5,3,0,51.75
+152,Nikola Vlasic,25,Croatia,England,West Ham United,9,3,0,22.77
+153,Davide Frattesi,23,Italy,Italy,US Sassuolo,9,3,0,20.7
+154,Oihan Sancet,22,Spain,Spain,Athletic Bilbao,8,3,0,20.7
+155,Nuno Tavares,22,Portugal,France,Olympique Marseille,9,3,0,18.63
+156,Umar Sadiq,25,Nigeria,Spain,Real Sociedad,5,3,0,18.63
+157,Álex Baena,21,Spain,Spain,Villarreal CF,8,3,0,10.35
+158,Dejan Ljubicic,25,Austria,Germany,1. FC Köln,9,3,0,8.8
+159,Suat Serdar,25,Germany,Germany,Hertha BSC,8,3,0,8.28
+160,Michel-Ange Balikwisha,21,Belgium,Belgium,Royal Antwerp FC,4,3,0,5.69
+161,Vladislav Sarveli,25,Russia,Russia,FC Sochi,12,3,0,1.86
+162,Jón Dagur Thorsteinsson,23,Iceland,Belgium,Oud-Heverlee Leuven,11,3,0,1.55
+163,Danylo Sikan,21,Ukraine,Ukraine,Shakhtar Donetsk,5,3,0,1.24
+164,Denis Dragus,23,Romania,Belgium,Standard Liège,11,3,0,0.93
+165,Giorgi Beridze,25,Georgia,Turkey,MKE Ankaragücü,8,3,0,0.78
+166,Rafa Mújica,23,Spain,Portugal,FC Arouca,9,3,0,0.62
+167,Vitaliy Dakhnovskyi,23,Ukraine,Ukraine,NK Veres Rivne,7,3,0,0.31
+168,Darwin Núñez,23,Uruguay,England,Liverpool FC,5,2,1,72.45
+169,Achraf Hakimi,23,Morocco,France,Paris Saint-Germain,10,2,1,67.27
+170,Victor Osimhen,23,Nigeria,Italy,SSC Napoli,5,2,1,67.27
+171,Bruno Guimarães,24,Brazil,England,Newcastle United,6,2,1,51.75
+172,William Saliba,21,France,England,Arsenal FC,9,2,1,41.4
+173,Enes Ünal,25,Turkey,Spain,Getafe CF,8,2,1,25.87
+174,Christoph Baumgartner,23,Austria,Germany,TSG 1899 Hoffenheim,9,2,1,22.77
+175,Francisco Trincão,22,Portugal,Portugal,Sporting CP,9,2,1,20.7
+176,Brahim Díaz,23,Spain,Italy,AC Milan,7,2,1,18.63
+177,Odsonne Edouard,24,France,England,Crystal Palace,8,2,1,15.52
+178,Enzo Le Fée,22,France,France,FC Lorient,10,2,1,9.32
+179,Ritsu Doan,24,Japan,Germany,SC Freiburg,9,2,1,8.28
+180,Marco Richter,24,Germany,Germany,Hertha BSC,6,2,1,6.21
+181,José Ángel Carmona,20,Spain,Spain,Sevilla FC,6,2,1,5.18
+182,Jordan Torunarigha,25,Germany,Belgium,KAA Gent,9,2,1,5.18
+183,Endri Cekici,25,Albania,Turkey,Konyaspor,6,2,1,5.18
+184,Nicolas Cozza,23,France,France,Montpellier HSC,10,2,1,5.18
+185,Aarón Martín,25,Spain,Germany,1.FSV Mainz 05,9,2,1,5.18
+186,David Okereke,25,Nigeria,Italy,US Cremonese,9,2,1,4.66
+187,Oliver Burke,25,Scotland,Germany,SV Werder Bremen,8,2,1,4.66
+188,Lazar Samardzic,20,Germany,Italy,Udinese Calcio,8,2,1,3.62
+189,Vyacheslav Grulev,23,Russia,Russia,Dynamo Moscow,11,2,1,3.62
+190,Majeed Ashimeru,25,Ghana,Belgium,RSC Anderlecht,6,2,1,3.62
+191,Gabri Veiga,20,Spain,Spain,Celta de Vigo,8,2,1,3.1
+192,Lazar Randjelovic,25,Serbia,Russia,Ural Yekaterinburg,4,2,1,2.59
+193,Thijs Dallinga,22,Netherlands,France,FC Toulouse,10,2,1,2.59
+194,Borja Sainz,21,Spain,Turkey,Giresunspor,8,2,1,2.28
+195,Victor Boniface,21,Nigeria,Belgium,Royale Union Saint Gilloise,8,2,1,2.07
+196,Dorgeles Nene,19,Mali,Belgium,KVC Westerlo,9,2,1,1.55
+197,Daichi Hayashi,25,Japan,Belgium,Sint-Truidense VV,8,2,1,1.55
+198,Daan Heymans,23,Belgium,Belgium,RSC Charleroi,10,2,1,1.24
+199,Oleksiy Gutsulyak,24,Ukraine,Ukraine,SK Dnipro-1,5,2,1,1.03
+200,Ibrokhimkhalil Yuldoshev,21,Uzbekistan,Russia,FC Pari Nizhniy Novgorod,12,2,1,0.93
+201,Aleksandr Rudenko,23,Russia,Russia,FK Khimki,9,2,1,0.93
+202,Nazariy Rusyn,23,Ukraine,Ukraine,Zorya Lugansk,6,2,1,0.41
+203,Martim Tavares,18,Portugal,Portugal,Boavista FC,8,2,1,0.21
+204,Nuno Mendes,20,Portugal,France,Paris Saint-Germain,9,1,2,51.75
+205,Matheus Nunes,24,Portugal,England,Wolverhampton Wanderers,9,1,2,46.58
+206,Allan Saint-Maximin,25,France,England,Newcastle United,5,1,2,41.4
+207,Ben Chilwell,25,England,England,Chelsea FC,6,1,2,39.33
+208,Martín Zubimendi,23,Spain,Spain,Real Sociedad,8,1,2,36.22
+209,Mattéo Guendouzi,23,France,France,Olympique Marseille,9,1,2,25.87
+210,Eberechi Eze,24,England,England,Crystal Palace,8,1,2,25.87
+211,Sofiane Diop,22,France,France,OGC Nice,6,1,2,20.7
+212,Dominic Solanke,25,England,England,AFC Bournemouth,7,1,2,16.56
+213,Diego Rossi,24,Uruguay,Turkey,Fenerbahce,8,1,2,15.01
+214,Ozan Kabak,22,Turkey,Germany,TSG 1899 Hoffenheim,9,1,2,10.35
+215,Dennis Geiger,24,Germany,Germany,TSG 1899 Hoffenheim,8,1,2,9.32
+216,Jan Thielmann,20,Germany,Germany,1. FC Köln,7,1,2,9.32
+217,Wilson Isidor,22,France,Russia,Lokomotiv Moscow,9,1,2,6.21
+218,Christopher Martins Pereira,25,Luxembourg,Russia,Spartak Moscow,8,1,2,5.18
+219,Federico Bonazzoli,25,Italy,Italy,US Salernitana 1919,9,1,2,5.18
+220,Evann Guessand,21,France,France,FC Nantes,10,1,2,5.18
+221,Diego Lainez,22,Mexico,Portugal,SC Braga,6,1,2,2.59
+222,Alexis Flips,22,France,France,Stade Reims,7,1,2,2.59
+223,András Németh,19,Hungary,Belgium,KRC Genk,10,1,2,1.55
+224,Aleksandr Lomovitskiy,24,Russia,Russia,FK Khimki,12,1,2,1.24
+225,Nikita Krivtsov,20,Russia,Russia,FK Krasnodar,10,1,2,1.03
+226,Kuni,25,Japan,Portugal,Casa Pia AC,9,1,2,0.96
+227,Julien Ngoy,24,Belgium,Belgium,KV Mechelen,9,1,2,0.93
+228,Aleksandr Kovalenko,19,Russia,Russia,Krylya Sovetov Samara,12,1,2,0.93
+229,Puma,24,Panama,Portugal,FC Famalicão,3,1,2,0.83
+230,Pedro Amaral,25,Portugal,Portugal,Rio Ave FC,9,1,2,0.78
+231,Leonardo Lelo,22,Portugal,Portugal,Casa Pia AC,9,1,2,0.72
+232,Luquinha,22,Brazil,Portugal,Portimonense SC,9,1,2,0.72
+233,Regan Charles-Cook,25,Grenada,Belgium,KAS Eupen,11,1,2,0.67
+234,William Balikwisha,23,Belgium,Belgium,Standard Liège,8,1,2,0.52
+235,Yuriy Klymchuk,25,Ukraine,Ukraine,Rukh Lviv,6,1,2,0.52
+236,João Félix,22,Portugal,Spain,Atlético de Madrid,8,0,3,72.45
+237,Richarlison,25,Brazil,England,Tottenham Hotspur,8,0,3,51.75
+238,Hugo Guillamón,22,Spain,Spain,Valencia CF,8,0,3,25.87
+239,Sasa Kalajdzic,25,Austria,England,Wolverhampton Wanderers,4,0,3,22.77
+240,Axel Disasi,24,France,Monaco,AS Monaco,10,0,3,22.77
+241,Rayan Cherki,19,France,France,Olympique Lyon,9,0,3,18.63
+242,Adrien Truffert,20,France,France,Stade Rennais FC,10,0,3,12.42
+243,David Costa,21,Portugal,France,RC Lens,10,0,3,8.28
+244,Alejandro Balde,18,Spain,Spain,FC Barcelona,7,0,3,8.28
+245,Chidera Ejuke,24,Nigeria,Germany,Hertha BSC,9,0,3,7.76
+246,Mateo Cassierra,25,Colombia,Russia,Zenit St. Petersburg,12,0,3,4.66
+247,Kamal Sowah,22,Ghana,Belgium,Club Brugge KV,10,0,3,3.62
+248,Gédéon Kalulu,25,DR Congo,France,FC Lorient,9,0,3,3.1
+249,Mihajlo Banjac,22,Serbia,Russia,FK Krasnodar,10,0,3,1.55

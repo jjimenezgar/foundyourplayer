@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+
+<!-- Titulo de la página-->
+<head>
+    <title>Top goleadores</title>
+</head>
+
+<body>
+
+
+<h2>Jugadores</h2>
+
+<p>En esta aplicación tenemos a los mejores atacantes de las 10 mejores ligas.</p>
+
+<form action="{{ url_for('goal')}}" method="post">
+      <label for="age" colo>Age:  </label>
+      <input type="text" name="age" placeholder="age">
+      <br>
+      <br>
+      <label for="nationality" colo>Nationality:  </label>
+      <input type="text" name="nationality" placeholder="nationality">
+      <br>
+      <br>
+      <label for="competition" colo>Competition:  </label>
+      <input type="text" name="competition" placeholder="competition">
+      <br>
+      <br>
+      <label for="price" colo>Price:  </label>
+      <input type="text" name="price" placeholder="price">
+      <br>
+      <br>
+      
+     
+<button type="submit" class="btn btn-primary btn-block btn-large">Buscar</button>
+    </form>
+
+
+
+
+
+<table border="1">
+    <thead cellpadding="1.0" cellspacing="1.0">
+        <tr>
+            <th>Nombre</th>   
+            <th>Edad</th>            
+            <th>Nacionalidad</th>     
+            <th>Equipo</th> 
+            <th>Competición</th> 
+            <th>Partidos</th>                          
+            <th>Goles</th>
+            <th>Asistencias</th>
+            <th>Precio</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{row['name']}}</td>
+            <td>{{row['age']}}</td>
+            <td>{{row['nationality']}}</td>
+            <td>{{row['team']}}</td>
+            <td>{{row['competition']}}</td>
+            <td>{{row['match']}}</td>
+            <td>{{row['goal']}}</td>
+            <td>{{row['assists']}}</td>
+            <td>{{row['price']}}</td>
+        </tr>
+        {% endfor %}
+    </thead>
+</table>
+
+<br><br>
+
+
+<form action="{{url_for('index')}}">
+    <input type="submit" value="Home"/>
+</form>
+
+
+
+</body>
+</html>

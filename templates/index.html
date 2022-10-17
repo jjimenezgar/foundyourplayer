@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<body>
+    <h1>Bienvenido!!</h1>
+   
+    <br>
+    <h3>En esta web se puede hacer una busqueda de jugadores jovenes con las mejores estadisticas ofensivas de las grandes ligas</h3>
+    <br>
+    
+    <h2>Endpoints disponibles:</h2>
+    <h3>[GET] /goal --> Muestra tabla para buscar jugadores</h3>
+    <h3>[POST] /goal --> Filtra jugadores</h3>
+    <h3>[GET] /scorers --> Grafica de maximos goleadores</h3>
+    <h3>[GET] /assists --> Grafica de maximos goleadores</h3>
+
+
+    <form action="{{url_for('goal')}}">
+        <input type="submit" value="Jugadores"/>
+    </form>
+    <br>
+     <br>
+     
+   <form action="{{url_for('scorers')}}">
+        <input type="submit" value="Top Goleadores"/>
+    </form>
+    
+     <br>
+     <br>
+    
+       <form action="{{url_for('assists')}}">
+        <input type="submit" value="Top asistencias"/>
+    </form>
+    
+    
+</body>
+</html>

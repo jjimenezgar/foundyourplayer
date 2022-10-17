@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+
+<!-- Titulo de la página-->
+<head>
+    <title>Top goleadores</title>
+</head>
+
+<body>
+
+
+<h2>Jugadores</h2>
+
+<p>En esta aplicación tenemos a los mejores atacantes de las 10 mejores ligas.</p>
+
+
+<table border="1">
+    <thead cellpadding="1.0" cellspacing="1.0">
+        <tr>
+            <th>Nombre</th>   
+            <th>Edad</th>            
+            <th>Nacionalidad</th>     
+            <th>Equipo</th> 
+            <th>Competición</th> 
+            <th>Partidos</th>                          
+            <th>Goles</th>
+            <th>Asistencias</th>
+            <th>Precio</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{row['name']}}</td>
+            <td>{{row['age']}}</td>
+            <td>{{row['nationality']}}</td>
+            <td>{{row['team']}}</td>
+            <td>{{row['competition']}}</td>
+            <td>{{row['match']}}</td>
+            <td>{{row['goal']}}</td>
+            <td>{{row['assists']}}</td>
+            <td>{{row['price']}}</td>
+        </tr>
+        {% endfor %}
+    </thead>
+</table>
+
+<p>{{a}}</p>
+
+<br><br>
+
+</body>
+</html>
